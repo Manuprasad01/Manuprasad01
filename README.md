@@ -117,19 +117,6 @@ Infrastructure Auditing:
 </div>
 
 ---
-
-## 📡 root@kali:~$ contact
-
-```bash
-Portfolio : https://manuprasad01.github.io
-
-LinkedIn  : linkedin.com/in/manuprasad-k
-
-Instagram : instagram.com/_manuprasad_k
-
-Email     : manupkm24@gmail.com
-```
-
 ---
 
 <div align="center">
