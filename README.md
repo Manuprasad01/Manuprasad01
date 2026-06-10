@@ -1,107 +1,111 @@
-<h2 align="left">Hi 👋! My name is  Manuprasad K and I'm a Software Developer, from Kerala</h2>
-
-###
-
-<div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=Manuprasad01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manuprasad01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDAzNnByejk2eWc3MDY5N3lkajlwMXpuMXMwaWdsM2V3d2VwcDM5eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Manuprasad01/Manuprasad01/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-</div>
-
-###
-
-<p align="left">manupkm24@gmail.com</p>
-
-###
+```
+ ███╗   ███╗ █████╗ ███╗   ██╗██╗   ██╗
+ ████╗ ████║██╔══██╗████╗  ██║██║   ██║
+ ██╔████╔██║███████║██╔██╗ ██║██║   ██║
+ ██║╚██╔╝██║██╔══██║██║╚██╗██║██║   ██║
+ ██║ ╚═╝ ██║██║  ██║██║ ╚████║╚██████╔╝
+ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝
+```
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Manuprasad01/count.svg?"  />
+
+### `> Cyber Security Analyst` &nbsp;·&nbsp; `> VAPT Specialist` &nbsp;·&nbsp; `> Ethical Hacker`
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-0d1117?style=flat-square&logo=github&logoColor=00ff41&labelColor=161b22&color=21262d)](https://manuprasad01.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=161b22&color=21262d)](https://www.linkedin.com/in/manuprasad-k)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-0d1117?style=flat-square&logo=instagram&logoColor=E4405F&labelColor=161b22&color=21262d)](https://www.instagram.com/_manuprasad_k)
+[![Gmail](https://img.shields.io/badge/Gmail-Mail_Me-0d1117?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=161b22&color=21262d)](mailto:manupkm24@gmail.com)
+
 </div>
 
-###
+---
 
-<div align="left">
-<!--   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /> -->
-</div>
+```bash
+root@kali:~$ whoami
+```
 
-###
+```
+╔══════════════════════════════════════════════════════╗
+║  NAME    :  Manuprasad K                             ║
+║  ROLE    :  Cyber Security Analyst · VAPT Specialist ║
+║  EDU     :  M.Sc. Computer Science                   ║
+║  CERTS   :  CSA (EC-Council) · CICSA (RedTeam)       ║
+║  STATUS  :  [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░] Hunting Vulns... ║
+╚══════════════════════════════════════════════════════╝
+```
 
+---
 
+```bash
+root@kali:~$ cat domains.txt
+```
 
-###
+```
+[✓] Web Application Pentesting   →  OWASP Top 10 · Burp Suite · SQLi · Auth Bypass
+[✓] Network Pentesting           →  Recon · Port Scanning · Service Exploitation
+[✓] Desktop Auditing             →  Local Priv Esc · Patch Management · Hardening
+[✓] Infrastructure Auditing      →  Server Config · Misconfigurations · AD Security
+```
 
-<div align="left">
-</div>
+---
 
-###
+```bash
+root@kali:~$ ./arsenal --list
+```
+
+**Offensive**
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-FF0000?style=flat-square&logoColor=white)
+
+**Defensive**
+
+![Wazuh](https://img.shields.io/badge/Wazuh_SIEM-005571?style=flat-square&logoColor=white)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-008000?style=flat-square&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+
+**Languages & OS**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+
+---
+
+```bash
+root@kali:~$ github-stats --user Manuprasad01
+```
 
 <div align="center">
-<!--   <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  /> -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manuprasad01&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&rank_icon=github)
+
+![Streak](https://streak-stats.demolab.com?user=Manuprasad01&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=ff5f56&currStreakLabel=00ff41)
+
 </div>
 
-###
+---
 
-<div align="left">
+```bash
+root@kali:~$ cat contact.sh
+```
+
+```
+╔══════════════════════════════════════════════════════╗
+║  🌐  https://manuprasad01.github.io                  ║
+║  💼  linkedin.com/in/manuprasad-k                    ║
+║  📸  https://www.instagram.com/_manuprasad_k         ║
+║  📧  manupkm24@gmail.com                             ║
+╚══════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Manuprasad01&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
+
+*"The quieter you become, the more you are able to hear."*
+
 </div>
-
-###
